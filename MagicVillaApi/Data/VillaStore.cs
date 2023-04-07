@@ -10,4 +10,4 @@ namespace MagicVilla_VillaAPI.Data
             new VillaDTO{Id=2,Name="Beach View" }
         };
     }
-}
+} 
